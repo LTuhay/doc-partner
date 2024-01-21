@@ -6,6 +6,8 @@ Other functions are included, such as deleting documents, adding links to them, 
 
 For user convenience, you can choose between a light theme and a dark theme.
 
+Data is stored in the browser's local storage.
+
 ####################################################################
 
 Esta es una aplicación para la gestión de estados de documentos. Pueden ingresarse documentos y estos se listarán en una tabla por orden de antigüedad. También pueden editarse indicando una fecha anterior, lo que lo hará reacomodarse en la lista. Los documentos activos más antiguos aparecen primero.
@@ -15,3 +17,5 @@ Al marcar un documento como inactivo, este se transferirá a la lista de documen
 Se incluyen otras funciones, como eliminar documentos, agregarles un link y realizar una búsqueda.
 
 Para comodidad de los usuarios, puede escogerse entre tema claro y tema oscuro.
+
+Los datos se guardan en el local storage del navegador.
