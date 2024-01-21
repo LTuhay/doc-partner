@@ -1,0 +1,41 @@
+﻿* {margin:0; padding:0;}
+
+        
+div {
+    padding:1em;
+}
+
+.mb-3 {
+    padding:0.3em;
+}
+
+.icon {
+    width: 1.5em;
+    margin: 5px;;
+}
+
+
+
+#barra {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#busqueda {
+    width: 20em;
+}
+
+#enlace:hover {
+    text-decoration: underline;
+}
+
+.btn-light:hover {
+    background-color: black;
+    color: white;
+}
+
+.btn-dark:hover {
+    background-color: white;
+    color: black;
+}
